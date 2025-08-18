@@ -1,3 +1,3 @@
 # chart_with_toolbar
 
-![App Screenshot](assets/chart_with_toolbar.png)
+![App Screenshot](chart_with_toolbar/assets/image.png)
