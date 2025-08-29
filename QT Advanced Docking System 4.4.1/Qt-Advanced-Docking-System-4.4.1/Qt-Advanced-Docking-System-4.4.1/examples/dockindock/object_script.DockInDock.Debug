@@ -1,0 +1,11 @@
+debug/dockindock.o
+debug/dockindockmanager.o
+debug/perspectiveactions.o
+debug/perspectives.o
+debug/main.o
+debug/mainframe.o
+debug/moc_dockindock.o
+debug/moc_dockindockmanager.o
+debug/moc_perspectiveactions.o
+debug/moc_perspectives.o
+debug/moc_mainframe.o

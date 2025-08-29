@@ -1,0 +1,11 @@
+release/dockindock.o
+release/dockindockmanager.o
+release/perspectiveactions.o
+release/perspectives.o
+release/main.o
+release/mainframe.o
+release/moc_dockindock.o
+release/moc_dockindockmanager.o
+release/moc_perspectiveactions.o
+release/moc_perspectives.o
+release/moc_mainframe.o
