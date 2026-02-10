@@ -1,0 +1,11 @@
+#ifndef SERIAL_ERR_CODES_H
+#define SERIAL_ERR_CODES_H
+
+#define AWS_UART_COMM_TX_FAILURE             -1
+#define AWS_UART_COMM_SOCK_NOT_CONNECTED     -2
+#define AWS_UART_COMM_TX_TIMEOUT             -3
+#define AWS_UART_COMM_RX_DATA_LEN_BIGGER     -4
+#define AWS_UART_COMM_RX_TIMEOUT             -5
+#define AWS_UART_WAITING_FOR_RES_FOR_OLD_CMD -6
+
+#endif // SERIAL_ERR_CODES_H
